@@ -10,6 +10,8 @@
 
 25.02.03 시스템 아키텍처 및 DevOps와 CI/CD ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-03.md))
 
-25.02.04 Thread와 동시성 관리 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-04.md))
+25.02.04 프로세스(Process)와 스레드(Thread) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-04.md))
 
 25.02.05 동기/비동기, 블로킹/논블로킹 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-05.md))
+
+25.02.06 동시성(Concurrency)/병렬성(Parallelism)과 스케쥴링(Scheduling) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-06.md))
