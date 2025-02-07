@@ -15,3 +15,5 @@
 25.02.05 동기/비동기, 블로킹/논블로킹 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-05.md))
 
 25.02.06 동시성(Concurrency)/병렬성(Parallelism)과 스케쥴링(Scheduling) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-06.md))
+
+25.02.07 2주차 딥다이브(자바 직렬화(Serialization)와 역직렬화(Deserialization)) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-07.md))
