@@ -17,3 +17,7 @@
 25.02.06 동시성(Concurrency)/병렬성(Parallelism)과 스케쥴링(Scheduling) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-06.md))
 
 25.02.07 2주차 딥다이브(자바 직렬화(Serialization)와 역직렬화(Deserialization)를 포함한 6개 주제) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-07.md))
+
+### [2월 둘째주, 3주차] : 
+
+25.02.10 공유 자원, 임계 영역, 동기화, 락(Lock) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-10.md))
