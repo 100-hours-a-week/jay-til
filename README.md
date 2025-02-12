@@ -23,3 +23,5 @@
 25.02.10 공유 자원, 임계 영역, 동기화, 락(Lock) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-10.md))
 
 25.02.11 가상머신과 하이퍼바이저, 컨테이너, 도커(Docker) 및 쿠버네티스(Kubernetes) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-11.md))
+
+25.02.12 TCP, UDP, HTTP, HTTPS, HTTP Cache, 대칭/비대칭 암호화 방식, API, API Gateway, REST API ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-12.md))
