@@ -25,3 +25,5 @@
 25.02.11 가상머신과 하이퍼바이저, 컨테이너, 도커(Docker) 및 쿠버네티스(Kubernetes) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-11.md))
 
 25.02.12 TCP, UDP, HTTP, HTTPS, HTTP Cache, 대칭/비대칭 암호화 방식, API, API Gateway, REST API ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-12.md))
+
+25.02.13 HTTP 자격 증명 헤더, Bearer Token, JWT, OAuth, 보안 강화 대책(XSS, CSRF, 토큰 탈취 방지) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-13.md))
