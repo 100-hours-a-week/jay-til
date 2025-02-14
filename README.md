@@ -18,7 +18,7 @@
 
 25.02.07 2주차 딥다이브(자바 직렬화(Serialization)와 역직렬화(Deserialization)를 포함한 6개 주제) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-07.md))
 
-### [2월 둘째주, 3주차] : 
+### [2월 둘째주, 3주차] : 웹의 구조 및 이해
 
 25.02.10 공유 자원, 임계 영역, 동기화, 락(Lock) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-10.md))
 
@@ -27,3 +27,5 @@
 25.02.12 TCP, UDP, HTTP, HTTPS, HTTP Cache, 대칭/비대칭 암호화 방식, API, API Gateway, REST API ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-12.md))
 
 25.02.13 HTTP 자격 증명 헤더, Bearer Token, JWT, OAuth, 보안 강화 대책(XSS, CSRF, 토큰 탈취 방지) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-13.md))
+
+25.02.14 3주차 딥다이브(Web Server와 Web Application Server의 차이를 포함한 6개 주제) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-14.md))
