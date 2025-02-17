@@ -29,3 +29,7 @@
 25.02.13 HTTP 자격 증명 헤더, Bearer Token, JWT, OAuth, 보안 강화 대책(XSS, CSRF, 토큰 탈취 방지) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-13.md))
 
 25.02.14 3주차 딥다이브(Web Server와 Web Application Server의 차이를 포함한 6개 주제) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-14.md))
+
+### [2월 셋째주, 4주차] : 
+
+25.02.17 쿠키(Cookie)와 세션(Session) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-17.md))
