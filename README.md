@@ -33,3 +33,5 @@
 ### [2월 셋째주, 4주차] : 
 
 25.02.17 쿠키(Cookie)와 세션(Session) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-17.md))
+
+25.02.17 웹소켓(WebSocket) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-18.md))
