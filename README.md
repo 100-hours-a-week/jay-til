@@ -30,10 +30,12 @@
 
 25.02.14 3주차 딥다이브(Web Server와 Web Application Server의 차이를 포함한 6개 주제) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-14.md))
 
-### [2월 셋째주, 4주차] : 
+### [2월 셋째주, 4주차] : 자바스크립트(JavaScript)의 이해
 
 25.02.17 쿠키(Cookie)와 세션(Session) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-17.md))
 
 25.02.18 웹소켓(WebSocket) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-18.md))
 
 25.02.19 자바스크립트(JavaScript) 입문 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-19.md))
+
+25.02.20 자바스크립트(JavaScript) 응용 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-20.md))
