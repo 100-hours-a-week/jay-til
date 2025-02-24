@@ -39,3 +39,7 @@
 25.02.19 자바스크립트(JavaScript) 입문 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-19.md))
 
 25.02.20 자바스크립트(JavaScript) 응용 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-20.md))
+
+### [2월 넷째주, 5주차] : 
+
+25.02.14 자바스크립트(JavaScript) 실행 컨텍스트(Execution Context), 클로저(Closure), 프로토타입(Prototype) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-24.md))
