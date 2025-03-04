@@ -40,6 +40,11 @@
 
 25.02.20 자바스크립트(JavaScript) 응용 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-20.md))
 
-### [2월 넷째주, 5주차] : 
+### [2월 넷째주, 5주차] : 자바스크립트(JavaScript) 응용
 
-25.02.14 자바스크립트(JavaScript) 실행 컨텍스트(Execution Context), 클로저(Closure), 프로토타입(Prototype) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-24.md))
+25.02.24 자바스크립트(JavaScript) 실행 컨텍스트(Execution Context), 클로저(Closure), 프로토타입(Prototype) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/FEB/2025-02-24.md))
+25.02.25 ~ 25.02.28 카카오테크 부트캠프 해커톤
+
+### [3월 첫째주, 6주차] : 
+
+25.03.04 Database, SQL, ERD ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-04.md))
