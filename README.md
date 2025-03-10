@@ -46,10 +46,14 @@
 
 25.02.25 ~ 25.02.28 카카오테크 부트캠프 해커톤
 
-### [3월 첫째주, 6주차] : 
+### [3월 첫째주, 6주차] : 데이터베이스 심화 및 스프링 프레임워크 기초
 
 25.03.04 Database, SQL, ERD ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-04.md))
 
 25.03.05 DB 트랜잭션, ACID, NoSQL, CAP 이론 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-05.md))
 
 25.03.05 스프링과 스프링부트 기초 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-06.md))
+
+### [3월 둘째주, 7주차] : 
+
+25.03.10 스프링 빈(Bean), IoC(Inversion of Control), DI(Dependency Injection) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-10.md))
