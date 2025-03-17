@@ -59,3 +59,9 @@
 25.03.10 스프링 빈(Bean), IoC(Inversion of Control), DI(Dependency Injection) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-10.md))
 
 25.03.11 스프링 AOP(Aspect-Oriented Programming)와 프록시(Proxy) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-11.md))
+
+25.03.12 ~ 25.03.14 휴강
+
+### [3월 셋째주, 8주차] : 
+
+25.03.17 ORM(Object-Relational Mapping)과 N+1 문제 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-17.md))
