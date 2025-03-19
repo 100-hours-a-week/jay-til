@@ -67,3 +67,5 @@
 25.03.17 ORM(Object-Relational Mapping)과 N+1 문제 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-17.md))
 
 25.03.18 JPA(Java Persistence API)와 영속성 컨텍스트(Persistence Context) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-18.md))
+
+25.03.19 JPA 연관 관계 매핑과 Fetch 전략 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-19.md))
