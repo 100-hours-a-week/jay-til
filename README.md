@@ -62,7 +62,7 @@
 
 25.03.12 ~ 25.03.14 휴강
 
-### [3월 셋째주, 8주차] : 
+### [3월 셋째주, 8주차] : JPA(Java Persistence API)
 
 25.03.17 ORM(Object-Relational Mapping)과 N+1 문제 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-17.md))
 
