@@ -69,3 +69,7 @@
 25.03.18 JPA(Java Persistence API)와 영속성 컨텍스트(Persistence Context) ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-18.md))
 
 25.03.19 JPA 연관 관계 매핑과 Fetch 전략 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/MAR/2025-03-19.md))
+
+### 눈떠보니 기술 면접 전날 with JS, Python
+
+25.04.01 프로그래밍, 웹, 브라우저 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/APR/2025-04-01.md))
