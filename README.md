@@ -73,3 +73,5 @@
 ### 눈떠보니 기술 면접 전날 with JS, Python
 
 25.04.01 프로그래밍, 웹, 브라우저 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/APR/2025-04-01.md))
+
+25.04.08 네트워크, 보안 ([상세 내역 링크](https://github.com/juintination/jay-til/blob/main/APR/2025-04-08.md))
